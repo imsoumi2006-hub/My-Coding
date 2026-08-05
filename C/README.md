@@ -1,2 +1,2 @@
-# C Progrms
+# C Programs
 This folder contains my C programming practice.
